@@ -28,6 +28,18 @@ export default function Home() {
             </div>
           </section>
 
+          {/* Admissions Banner */}
+          <section className="bg-gradient-to-r from-orange-400 to-red-500 text-white py-6 text-center animate-pulse">
+            <div className="container mx-auto">
+              <h2 className="text-2xl md:text-4xl font-bold mb-2">
+                Admissions Open for Session 2026
+              </h2>
+              <p className="text-lg md:text-xl">
+                Classes Nursery to 10 - Enroll Now!
+              </p>
+            </div>
+          </section>
+
           {/* School Photo Section */}
           <section className="py-10 bg-gray-100">
             <div className="container mx-auto">
