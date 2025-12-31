@@ -260,7 +260,7 @@ export default function VacanciesPage() {
             How to Apply
           </h1>
           <p className="text-gray-700 leading-relaxed max-w-4xl mx-auto">
-            Applicants should send their resume on given email address <strong>davsubathu@gmail.com</strong> /What’s App & Speed Post <strong>before 10th January 2026</strong>. The date of interview will be given through email/what’s app and telephone information. Applicants are directed to download the <strong>Interview Application Form</strong> which is available on the website of the D.A.V. Subathu (<strong>https://www.davsubathu.com</strong>). Candidates are advised to bring filled <strong>Interview Application Form</strong> & <strong>Original Certificates</strong> for verification at the time of Interview.
+            Applicants should send their resume on given email address <strong>davsubathu@gmail.com</strong> /What’s App & Speed Post <strong>before 15th January 2026</strong>. The date of interview will be given through email/what’s app and telephone information. Applicants are directed to download the <strong>Interview Application Form</strong> which is available on the website of the D.A.V. Subathu (<strong>https://www.davsubathu.com</strong>). Candidates are advised to bring filled <strong>Interview Application Form</strong> & <strong>Original Certificates</strong> for verification at the time of Interview.
           </p>
         </div>
 
