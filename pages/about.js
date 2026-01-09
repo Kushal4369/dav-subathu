@@ -43,7 +43,7 @@ const About = () => {
         <div className="container mx-auto text-center">
           <h2 className="text-3xl font-bold mb-8 text-gray-800">Our Moto</h2>
           <p className="text-2xl text-gray-600 mb-6">
-            "Satyamev Jayte"
+            "Satyamev Jayate"
           </p>
 
         </div>
