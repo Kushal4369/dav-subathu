@@ -109,7 +109,7 @@ export default function Home() {
                 {/* Feature 3 */}
                 <div className="p-6 border rounded-lg shadow hover:shadow-lg transition duration-300">
                   <img
-                    src="/Expert_teachers.png"
+                    src="/Expert_teachers.JPG"
                     alt="Expert Teachers"
                     className="w-full mx-auto mb-2"
                   />

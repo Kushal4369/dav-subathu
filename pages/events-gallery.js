@@ -4,6 +4,13 @@ import  Timeline  from "./components/Timeline";
 import YouTube from "react-youtube";
 const timelineData = [
     {
+    title: "Annual Function 2025",
+    content: (
+     <YouTube videoId="i7TeVTcpma0" />
+      
+    ),
+  },
+  {
     title: "Dussehra Activity",
     content: (
      <YouTube videoId="UBx7wxwadas" />
