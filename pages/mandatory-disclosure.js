@@ -91,7 +91,7 @@ const MandatoryDisclosure = () => {
             <div className="p-6 bg-white border rounded-lg shadow-lg flex items-center justify-between hover:shadow-xl transition duration-300">
               <h3 className="text-xl font-semibold text-blue-600">Academic Calendar</h3>
               <a
-                href="/pdfs/Academic calendar 2025-26.pdf"
+                href="/pdfs/ACADEMIC CALENDER 2026.pdf"
                 target="_blank"
                 className="bg-blue-500 text-white px-4 py-2 rounded-lg shadow-lg hover:bg-blue-700 transition duration-300"
               >

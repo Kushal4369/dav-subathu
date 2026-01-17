@@ -66,7 +66,7 @@ const Admissions = () => {
                 <img
                   src="/Academic_Excellence.jpg"
                   alt="Academic Excellence"
-                  className="w-full mx-auto mb-2"
+                  className="w-full h-60 object-cover mx-auto mb-2 rounded"
                 />
                 <h3 className="text-xl font-semibold mb-2">Academic Excellence</h3>
                 <p className="text-gray-600">
@@ -78,9 +78,9 @@ const Admissions = () => {
               {/* Feature 2 */}
               <div className="p-6 border rounded-lg shadow hover:shadow-lg transition duration-300">
                 <img
-                  src="/ExtraCurricular.jpg"
+                  src="/ExtraCurricular.png"
                   alt="Extracurricular Activities"
-                  className="w-full mx-auto mb-2"
+                  className="w-full h-60 object-cover mx-auto mb-2 rounded"
                 />
                 <h3 className="text-xl font-semibold mb-2">
                   Extracurricular Activities
@@ -93,9 +93,9 @@ const Admissions = () => {
               {/* Feature 3 */}
               <div className="p-6 border rounded-lg shadow hover:shadow-lg transition duration-300">
                 <img
-                  src="/Expert_teachers.png"
+                  src="/Expert_teachers.jpeg" 
                   alt="Expert Teachers"
-                  className="w-full mx-auto mb-2"
+                  className="w-full h-60 object-cover mx-auto mb-2 rounded"
                 />
                 <h3 className="text-xl font-semibold mb-2">Expert Teachers</h3>
                 <p className="text-gray-600">

@@ -6,66 +6,61 @@ import { motion, AnimatePresence } from "framer-motion";
 const announcements = [
   {
     id: 1,
-    title: "Admissions Open for 2025–26 Academic Year",
+    title: "Admissions Open for 2026-27 Academic Year",
     date: "Present",
   },
   {
     id: 2,
-    title: "Independence Day Celebration",
-    date: "August 15, 2025",
+    title: "Vasant Panchami Celebration",
+    date: "January 23, 2026",
   },
   {
     id: 3,
-    title: `Haryali Teej`,
-    date: "August 23, 2025",
+    title: `Republic Day`,
+    date: "january 26, 2026",
   },
   {
     id: 4,
-    title: "Ganesh Chaturthi",
-    date: "August 27, 2025",
+    title: "Guru Ravidas Jayanti ",
+    date: "February 01, 2026",
   },
     {
     id: 5,
-    title: "National Sports Day",
-    date: "August 29, 2025",
+    title: "Maha Shivratri",
+    date: " February 15, 2026",
   },
     {
     id: 6,
-    title: "Interhouse Sports Competition",
-    date: "August 30, 2025",
+    title: "Chhatarapati Shivaji Jayanti",
+    date: " February 19, 2026",
   },
     {
     id: 7,
-    title: "Dushera Celebration",
-    date: "October 1 , 2025",
+    title: "National Science Day",
+    date: "February 28, 2026",
   },
     {
     id: 8,
-    title: "Vaccination Drive",
-    date: "October 16, 2025",
+    title: "Holi Celebration",
+    date: "March 03, 2026",
   },
     {
     id: 9,
-    title: "Diwali Celebration",
-    date: "October 18, 2025",
+    title: "Internation Women's Day",
+    date: "March 08, 2026",
   },
     {
     id: 10,
-    title: "Diwali Break",
-    date: "October 20 - 23, 2025",
+    title: "World Water Day",
+    date: "March 22, 2026",
   },
   {
     id: 11,
-    title: "Guru Nanak Jayanti Celebration",
-    date: "November 4 , 2025",
+    title: "Ram Navami",
+    date: "March 26, 2026",
   },
-  {
-    id: 12,
-    title: "Annual Day",
-    date: "November 09, 2025",
-  },
-  
-  
+ 
+
 ];
 
 const SchoolAnnouncements = () => {
