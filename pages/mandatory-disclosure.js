@@ -88,7 +88,7 @@ const MandatoryDisclosure = () => {
               </a>
             </div>
             {/* Document 7 */}
-            <div className="p-6 bg-white border rounded-lg shadow-lg flex items-center justify-between hover:shadow-xl transition duration-300">
+            {/* <div className="p-6 bg-white border rounded-lg shadow-lg flex items-center justify-between hover:shadow-xl transition duration-300">
               <h3 className="text-xl font-semibold text-blue-600">Academic Calendar</h3>
               <a
                 href="/pdfs/ACADEMIC CALENDER 2026.pdf"
@@ -97,7 +97,7 @@ const MandatoryDisclosure = () => {
               >
                 View PDF
               </a>
-            </div>
+            </div> */}
 
             {/* Document 9 */}
             <div className="p-6 bg-white border rounded-lg shadow-lg flex items-center justify-between hover:shadow-xl transition duration-300">
