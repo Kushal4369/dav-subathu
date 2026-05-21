@@ -16,7 +16,7 @@ const Announcements = () => {
 
   const announcements = [
     "Welcome to our school!",
-    "Admissions for 2026 are now open!",
+    
     ,
   ];
 

@@ -6,61 +6,59 @@ import { motion, AnimatePresence } from "framer-motion";
 const announcements = [
   {
     id: 1,
-    title: "Admissions Open for 2026-27 Academic Year",
-    date: "Present",
+    title: "Labour Day & Buddha Purnima",
+    date: "01-05-2026",
   },
   {
     id: 2,
-    title: "Vasant Panchami Celebration",
-    date: "January 23, 2026",
+    title: "World Athletics Day",
+    date: "07-05-2026",
   },
   {
     id: 3,
-    title: `Republic Day`,
-    date: "january 26, 2026",
+    title: "Mother's Day Celebration",
+    date: "10-05-2026",
   },
   {
     id: 4,
-    title: "Guru Ravidas Jayanti ",
-    date: "February 01, 2026",
+    title: "School Council Election 2026-27",
+    date: "23-05-2026",
   },
-    {
+  {
     id: 5,
-    title: "Maha Shivratri",
-    date: " February 15, 2026",
+    title: "World No-Tobacco Day",
+    date: "31-05-2026",
   },
-    {
+  {
     id: 6,
-    title: "Chhatarapati Shivaji Jayanti",
-    date: " February 19, 2026",
+    title: "World Environment Day",
+    date: "05-06-2026",
   },
-    {
+  {
     id: 7,
-    title: "National Science Day",
-    date: "February 28, 2026",
+    title: "Yoga Day Celebration",
+    date: "21-06-2026",
   },
-    {
+  {
     id: 8,
-    title: "Holi Celebration",
-    date: "March 03, 2026",
+    title: "National Doctors' Day",
+    date: "01-07-2026",
   },
-    {
+  {
     id: 9,
-    title: "Internation Women's Day",
-    date: "March 08, 2026",
+    title: "Mid Term Exam",
+    date: "06-07-2026 to 18-07-2026",
   },
-    {
+  {
     id: 10,
-    title: "World Water Day",
-    date: "March 22, 2026",
+    title: "Independence Day",
+    date: "15-08-2026",
   },
   {
     id: 11,
-    title: "Ram Navami",
-    date: "March 26, 2026",
+    title: "National Sports Day Celebration",
+    date: "29-08-2026",
   },
- 
-
 ];
 
 const SchoolAnnouncements = () => {
