@@ -135,14 +135,7 @@ export default function VacanciesPage() {
           </p>
         </div>
 
-        <div className="text-center">
-          <h1 className="text-3xl font-semibold text-blue-800 mb-6">
-            How to Apply
-          </h1>
-          <p className="text-gray-700 leading-relaxed max-w-4xl mx-auto">
-            Applicants should send their resume on given email address <strong>davsubathu@gmail.com</strong> /What’s App & Speed Post <strong>before 25th January 2026</strong>. The date of interview will be given through email/what’s app and telephone information. Applicants are directed to download the <strong>Interview Application Form</strong> which is available on the website of the D.A.V. Subathu (<strong>https://www.davsubathu.com</strong>). Candidates are advised to bring filled <strong>Interview Application Form</strong> & <strong>Original Certificates</strong> for verification at the time of Interview.
-          </p>
-        </div>
+       
 
         <div className="text-center">
           <h1 className="text-3xl font-semibold text-blue-800 mb-6">
@@ -158,30 +151,7 @@ export default function VacanciesPage() {
           </div>
         </div>
 
-        <div className="text-center">
-          <h1 className="text-3xl font-semibold text-blue-800 mb-6">
-            Documents Required
-          </h1>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-6xl mx-auto">
-            <div className="text-left">
-              <h2 className="text-xl font-semibold text-blue-700 mb-4">For Principal & Vice Principal</h2>
-              <ul className="list-disc list-inside text-gray-700 leading-relaxed space-y-2">
-                <li>2 passport size photograph.</li>
-                <li>2 photocopies of Aadhaar Card.</li>
-                <li>2 photocopies of all educational certificate/degree/Experience certificate required.</li>
-              </ul>
-            </div>
-            <div className="text-left">
-              <h2 className="text-xl font-semibold text-blue-700 mb-4">For Teaching Posts</h2>
-              <ul className="list-disc list-inside text-gray-700 leading-relaxed space-y-2">
-                <li>2 passport size photograph.</li>
-                <li>2 photocopies of Aadhaar Card.</li>
-                <li>2 photocopies of 10th, 12th, Graduation/Other Master Degree, B.Ed. , JBT/ D.EI.Ed, TET/CTET and Other Degree/Diploma.</li>
-                <li>Experience certificate (if any).</li>
-              </ul>
-            </div>
-          </div>
-        </div>
+        
       </div>
 
     </div>
