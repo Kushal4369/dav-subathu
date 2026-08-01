@@ -67,17 +67,19 @@ const timelineData = [
 
 const EventsGallery = () => (
   <div>
-    <section className="relative overflow-hidden">
-      <img
-        src="/assets/events-gallery-header.jpg"
-        alt="Events Gallery Header"
-        className="w-full h-[420px] md:h-[560px] object-contain brightness-75"
-      />
-      <div className="absolute inset-0 flex flex-col justify-center items-center text-center px-4 bg-black/20">
-        <h1 className="text-4xl md:text-6xl font-semibold text-white drop-shadow-lg">
+    <section className="bg-white pt-8 pb-4">
+      <div className="mx-auto w-full max-w-[1400px] overflow-hidden rounded-xl bg-gray-100">
+        <img
+          src="/assets/events-gallery-header.jpg"
+          alt="Events Gallery Header"
+          className="w-full h-[420px] md:h-[560px] object-contain"
+        />
+      </div>
+      <div className="mx-auto mt-6 max-w-3xl px-4 text-center md:px-8">
+        <h1 className="text-4xl md:text-5xl font-semibold text-slate-900">
           Events Gallery
         </h1>
-        <p className="mt-3 text-base md:text-lg text-white max-w-2xl drop-shadow">
+        <p className="mt-3 text-base md:text-lg text-slate-600">
           Discover our latest school events, celebrations, and student life highlights.
         </p>
       </div>
