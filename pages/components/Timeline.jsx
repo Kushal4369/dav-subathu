@@ -28,12 +28,23 @@ const Timeline = ({ data = [] }) => {
       ref={containerRef}
     >
       <div className="max-w-7xl mx-auto py-20 px-4 md:px-8 lg:px-10">
-        <h2 className="text-lg md:text-4xl mb-4 text-black dark:text-white max-w-4xl">
-          Changelog of our Events
-        </h2>
-        <p className="text-neutral-700 dark:text-neutral-300 text-sm md:text-base max-w-sm">
-          A timeline of significant events and milestones that have shaped our journey
-        </p>
+        <div className="flex flex-col gap-6 md:flex-row md:items-center md:justify-between">
+          <div className="max-w-2xl">
+            <h2 className="text-lg md:text-4xl mb-4 text-black dark:text-white">
+              Changelog of our Events
+            </h2>
+            <p className="text-neutral-700 dark:text-neutral-300 text-sm md:text-base max-w-xl">
+              A timeline of significant events and milestones that have shaped our journey
+            </p>
+          </div>
+          <div className="hidden md:block md:shrink-0">
+            <img
+              src="/assets/header2.jpg"
+              alt="Events Changelog Header"
+              className="h-[260px] w-[420px] rounded-xl object-cover shadow-xl"
+            />
+          </div>
+        </div>
       </div>
       <div ref={ref} className="relative max-w-7xl mx-auto pb-20">
         {data.map((item, index) => (
