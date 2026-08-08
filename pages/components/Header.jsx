@@ -25,7 +25,7 @@ const Header = () => {
     <header className="bg-blue-600 text-white">
       <nav className="container mx-auto flex items-center justify-between p-1">
         <div className="flex items-center">
-         <Link href={'/'}> <Image src="/logo.jpg" alt="Site Logo" width={80} height={40} className="rounded-xl" /></Link>
+         <Link href={'/'}> <Image src="/logo.jpg" alt="Site Logo" width={80} height={40} className="rounded-full" /></Link>
         </div>
 
         {/* Hamburger Menu Icon */}
