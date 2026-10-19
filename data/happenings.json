@@ -1,0 +1,160 @@
+[
+  {
+    "id": "subathu-fort-visit",
+    "title": "Educational Heritage Excursion to Historic Subathu Fort",
+    "category": "Heritage & Field Trip",
+    "date": "Latest Activity",
+    "location": "Historic Gorkha Fort, Subathu Cantonment",
+    "coverImage": "/latest/fort3.jpeg",
+    "images": [
+      "/latest/fort3.jpeg",
+      "/latest/fort.jpeg",
+      "/latest/fort2.jpeg",
+      "/latest/fort4.jpeg"
+    ],
+    "summary": "DAV Subathu students embarked on an educational visit exploring the military heritage, historic ramparts, and museum exhibits of Subathu Fort.",
+    "description": "To foster deep historical awareness and local pride, DAV Subathu organized an enriching educational excursion to the historic Subathu Fort. Guided by faculty mentors, our students explored the historic stone bastions, regimental military museum, ceremonial bagpipes, and war memorabilia dating back to the Gorkha and British cantonment eras. Students learned firsthand about the rich military history of Subathu, gaining valuable insights into patriotism, discipline, and historical preservation.",
+    "highlights": [
+      "Guided heritage tour of the historic stone fort and museum",
+      "Interactive learning session on Subathu's military legacy",
+      "Memorial photo session at the famous 'I Love Subathu Fort' landmark",
+      "Student reflection journals and historical questionnaire activity"
+    ],
+    "tagColor": "bg-indigo-100 text-indigo-800 border-indigo-200"
+  },
+  {
+    "id": "annual-day",
+    "title": "Grand Annual Day & Cultural Extravaganza",
+    "category": "Cultural Fest",
+    "date": "December 2025",
+    "location": "DAV Subathu Main Amphitheater & Grounds",
+    "coverImage": "/annual-function/Photo 1.JPG",
+    "images": [
+      "/annual-function/Photo 1.JPG",
+      "/annual-function/Photo 2.JPG",
+      "/annual-function/Photo 3.JPG",
+      "/annual-function/Photo 4.JPG",
+      "/annual-function/Photo 5.JPG",
+      "/annual-function/Photo 6.JPG"
+    ],
+    "summary": "A colorful celebration of cultural dances, musical ensembles, theatrical performances, and annual student awards.",
+    "description": "The Annual Day celebration at DAV Subathu was a magnificent showcase of our students' boundless artistic creativity and cultural pride. Over 400 students illuminated the stage with traditional Himachali folk dances, thought-provoking theatrical plays, choir melodies, and contemporary dance performances. Dignitaries, faculty, and proud parents gathered to celebrate academic, athletic, and co-curricular milestones achieved throughout the academic year.",
+    "highlights": [
+      "Over 400 student performers across all classes",
+      "Traditional Himachali folk dances & theatrical skits",
+      "Annual academic topper and house trophy distribution",
+      "Inaugurated by esteemed educational dignitaries and management"
+    ],
+    "tagColor": "bg-amber-100 text-amber-800 border-amber-200"
+  },
+  {
+    "id": "pot-decoration",
+    "title": "Creative Arts & Traditional Pot Decoration",
+    "category": "Arts & Craft",
+    "date": "October 2025",
+    "location": "Art Studio & Activity Hall",
+    "coverImage": "/recent-activities/pot decoration.jpg",
+    "images": [
+      "/recent-activities/pot decoration.jpg",
+      "/Activity Room.png",
+      "/recent-activities/rangoli.jpg"
+    ],
+    "summary": "Students transformed simple earthen pots into vibrant works of art with mandala motifs, mirrors, and vibrant paint.",
+    "description": "Encouraging students to blend traditional Indian craftsmanship with modern artistic innovation, DAV Subathu hosted an engaging Pot Decoration and Clay Craft competition. Students utilized eco-friendly pigments, mirrors, and geometric patterns to create awe-inspiring artifacts. The exhibition fostered hands-on creativity, aesthetic appreciation, and cultural heritage.",
+    "highlights": [
+      "Inter-house art contest across junior & senior wings",
+      "100% eco-friendly paints and recycled craft materials",
+      "Intricate Warli, Madhubani & contemporary mandala designs",
+      "Special certificates awarded for originality and color composition"
+    ],
+    "tagColor": "bg-emerald-100 text-emerald-800 border-emerald-200"
+  },
+  {
+    "id": "sports-meet",
+    "title": "Annual Sports Meet & Athletic Championship",
+    "category": "Sports & Athletics",
+    "date": "November 2025",
+    "location": "DAV Sports Ground",
+    "coverImage": "/sports.png",
+    "images": [
+      "/sports.png",
+      "/ExtraCurricular.png",
+      "/DAV_School.jpg"
+    ],
+    "summary": "A thrilling showcase of athletic prowess, track & field events, house pride, and spirited sportsmanship.",
+    "description": "DAV Subathu's Annual Sports Meet energized the entire campus with high-octane track races, long jumps, relay battles, and team games. The day commenced with an impressive march-past by all four house contingents saluting the school flag. Students pushed their boundaries, embodying perseverance, teamwork, and fair play in every competition.",
+    "highlights": [
+      "Disciplined march-past led by the Student Council",
+      "100m, 200m, 400m track sprints & 4x100m inter-house relays",
+      "Exciting tug-of-war and faculty-student novelty matches",
+      "Presentation of the prestigious Annual House Champion Trophy"
+    ],
+    "tagColor": "bg-blue-100 text-blue-800 border-blue-200"
+  },
+  {
+    "id": "rangoli-celebration",
+    "title": "Festive Rangoli & Cultural Heritage Exhibition",
+    "category": "Heritage & Culture",
+    "date": "November 2025",
+    "location": "Central Courtyard",
+    "coverImage": "/recent-activities/rangoli.jpg",
+    "images": [
+      "/recent-activities/rangoli.jpg",
+      "/recent-activities/dussehra.jpg",
+      "/annual-function/Photo 3.JPG"
+    ],
+    "summary": "Expressing harmony, tradition, and environmental themes through colorful floral and powdered rangoli art.",
+    "description": "The school campus radiated festive warmth during our traditional Rangoli Celebration. Students collaborated in groups to craft intricate geometric mandalas, peacocks, and social message murals using natural flower petals, colored sands, and terracotta lamps. The activity nurtured team coordination and an organic love for Indian festive arts.",
+    "highlights": [
+      "Vibrant floor art created across campus corridors",
+      "Natural flower petals, non-toxic colors & diyas",
+      "Themes centered on social harmony and nature conservation",
+      "Team-building and cooperative artistic expression"
+    ],
+    "tagColor": "bg-purple-100 text-purple-800 border-purple-200"
+  },
+  {
+    "id": "science-expo",
+    "title": "STEM Innovation, Science & Robotics Expo",
+    "category": "Science & Innovation",
+    "date": "September 2025",
+    "location": "Science & Computer Laboratories",
+    "coverImage": "/Science Lab.png",
+    "images": [
+      "/Science Lab.png",
+      "/Computer Lab.png",
+      "/Academic_Excellence.jpg"
+    ],
+    "summary": "Budding scientists demonstrated innovative working models, physics apparatus, and green technology concepts.",
+    "description": "DAV Subathu's STEM and Innovation Exhibition served as a catalyst for young scientific curiosity. Students presented working models on renewable solar energy, smart rainwater harvesting, robotics automation, and biological systems. Visitors and judges engaged directly with student inventors to learn about the principles behind their innovative creations.",
+    "highlights": [
+      "Over 45 working models and live scientific experiments",
+      "Hands-on robotics and coding demonstrations",
+      "Practical solutions for green energy and waste management",
+      "Peer-to-peer interactive explanations and demonstrations"
+    ],
+    "tagColor": "bg-cyan-100 text-cyan-800 border-cyan-200"
+  },
+  {
+    "id": "dussehra-assembly",
+    "title": "Dussehra Celebrations & Moral Values Assembly",
+    "category": "Celebrations",
+    "date": "October 2025",
+    "location": "School Amphitheater",
+    "coverImage": "/recent-activities/dussehra.jpg",
+    "images": [
+      "/recent-activities/dussehra.jpg",
+      "/annual-function/Photo 2.JPG",
+      "/annual-function/Photo 5.JPG"
+    ],
+    "summary": "Celebrating the victory of virtue and wisdom through student skits, poetic recitations, and moral lessons.",
+    "description": "Celebrating the victory of good over evil, the special Dussehra assembly brought the timeless teachings of truth, humility, and moral integrity to life. Students enacted key scenes with expressive dialogue and colorful costumes, while choral renditions of devotional hymns inspired the entire gathering.",
+    "highlights": [
+      "Theatrical enactment highlighting virtues of honesty & courage",
+      "Poetic recitations and speeches by student representatives",
+      "Address on the integration of Vedic values in modern life",
+      "Art exhibition of effigies and festive greeting cards"
+    ],
+    "tagColor": "bg-rose-100 text-rose-800 border-rose-200"
+  }
+]

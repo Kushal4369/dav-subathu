@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "add-event": "node scripts/add-event.mjs",
+    "scan-events": "node scripts/add-event.mjs --scan"
   },
   "dependencies": {
     "@tabler/icons-react": "^3.35.0",

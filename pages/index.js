@@ -1,5 +1,6 @@
 import Announcements from "./components/Announcements";
 import SchoolAnnouncements from "./components/SchoolAnnouncements";
+import LatestHappenings from "./components/LatestHappenings";
 import SmoothScroll from "./components/SmoothScroll";
 import WelcomeAnimation from "./components/WelcomeAnimation";
 
@@ -69,6 +70,9 @@ export default function Home() {
               <SchoolAnnouncements />
             </div>
           </section>
+
+          {/* Latest Happenings Interactive Carousel */}
+          <LatestHappenings />
 
           {/* Features Section */}
           <section className="py-20 bg-white">
