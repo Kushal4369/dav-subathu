@@ -1,5 +1,31 @@
 [
   {
+    "id": "bhandara",
+    "title": "Sacred Kanjak Poojan & Traditional Campus Bhandara",
+    "category": "Festive Tradition & Culture",
+    "date": "Eve of Dussehra",
+    "location": "DAV Subathu Campus Courtyard",
+    "coverImage": "/latest/Bhandara/Bhandara7.jpeg",
+    "images": [
+      "/latest/Bhandara/Bhandara7.jpeg",
+      "/latest/Bhandara/Bhandara5.jpeg",
+      "/latest/Bhandara/Bhandara2.jpeg",
+      "/latest/Bhandara/Bhandara6.jpeg",
+      "/latest/Bhandara/Bhandara3.jpeg",
+      "/latest/Bhandara/Bhandara4.jpeg"
+    ],
+    "summary": "On the auspicious eve of Dussehra, DAV Subathu celebrated sacred Kanjak Poojan followed by a grand school-wide community Bhandara (Preeti Bhoj).",
+    "description": "In keeping with sacred Vedic traditions and Indian cultural heritage, D.A.V.(Devbhoomi Adarsh Vidyalaya), Subathu, celebrated Kanjak Poojan on the auspicious eve of Dussehra. The sacred day commenced with heartfelt ceremonies honoring girl students as divine manifestations of Maa Durga (Kanya Poojan), offering them auspicious tilak, red chunnis, and blessings. Following the poojan, a grand traditional community Bhandara (Preeti Bhoj) was organized in the school courtyard. Students from kindergarten to senior grades, along with faculty and staff, sat together in traditional rows (pangat) to share the sanctified prasad comprising poori, chana, and halwa. The celebration beautifully embodied timeless values of equality, humility, respect for the girl child, and communal harmony.",
+    "highlights": [
+      "Sacred Kanjak (Kanya) Poojan honoring girl students on the eve of Dussehra",
+      "Traditional ceremonial blessings with sacred chunnis, tilak, and prasad",
+      "Grand school-wide community Bhandara (Preeti Bhoj) served with love and reverence",
+      "Traditional 'pangat' seating on campus grounds, reflecting equality and humility",
+      "Nurturing timeless Vedic values, mutual respect, and vibrant community spirit"
+    ],
+    "tagColor": "bg-amber-100 text-amber-800 border-amber-200"
+  },
+  {
     "id": "subathu-fort-visit",
     "title": "Educational Heritage Excursion to Historic Subathu Fort",
     "category": "Heritage & Field Trip",
@@ -12,7 +38,7 @@
       "/latest/fort2.jpeg",
       "/latest/fort4.jpeg"
     ],
-    "summary": "DAV Subathu students embarked on an educational visit exploring the military heritage, historic ramparts, and museum exhibits of Subathu Fort.",
+    "summary": "D.A.V.(Devbhoomi Adarsh Vidyalaya), Subathu,students embarked on an educational visit exploring the military heritage, historic ramparts, and museum exhibits of Subathu Fort.",
     "description": "To foster deep historical awareness and local pride, DAV Subathu organized an enriching educational excursion to the historic Subathu Fort. Guided by faculty mentors, our students explored the historic stone bastions, regimental military museum, ceremonial bagpipes, and war memorabilia dating back to the Gorkha and British cantonment eras. Students learned firsthand about the rich military history of Subathu, gaining valuable insights into patriotism, discipline, and historical preservation.",
     "highlights": [
       "Guided heritage tour of the historic stone fort and museum",
@@ -27,7 +53,7 @@
     "title": "Grand Annual Day & Cultural Extravaganza",
     "category": "Cultural Fest",
     "date": "December 2025",
-    "location": "DAV Subathu Main Amphitheater & Grounds",
+    "location": "D.A.V.(Devbhoomi Adarsh Vidyalaya), Subathu, Main Amphitheater & Grounds",
     "coverImage": "/annual-function/Photo 1.JPG",
     "images": [
       "/annual-function/Photo 1.JPG",
